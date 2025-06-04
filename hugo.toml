@@ -1,4 +1,4 @@
-baseURL = 'https://yourname.github.io/'  # 你后续会替换成真实地址
+baseURL = 'https://aklycoh.github.io/'  # 你后续会替换成真实地址
 languageCode = 'zh-cn'
 title = 'Feng 的个人网站'
 theme = 'PaperMod'
