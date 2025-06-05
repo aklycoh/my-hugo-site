@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://aklycoh.github.io/"
 languageCode = "zh-cn"
 title = "Akly的数字花园"
 theme = "PaperMod"
