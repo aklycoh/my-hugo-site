@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Akly的数字花园</title>
+    <title>分类 on Akly的数字花园</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on Akly的数字花园</description>
+    <description>Recent content in 分类 on Akly的数字花园</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Fri, 06 Jun 2025 18:25:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>学习心得</title>
+      <link>http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/</link>
+      <pubDate>Fri, 06 Jun 2025 18:25:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>阅读笔记</title>
+      <link>http://localhost:1313/categories/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Wed, 04 Jun 2025 18:25:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
