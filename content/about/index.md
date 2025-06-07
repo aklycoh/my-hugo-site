@@ -15,5 +15,5 @@ draft: false
 - GitHub: [aklycoh](https://github.com/aklycoh)
 - 邮箱: aklycoh@gmail.com
 
-> 欢迎交流、切磋与合作！
+> 欢迎交流、指正与合作！
 
