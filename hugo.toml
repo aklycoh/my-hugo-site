@@ -19,6 +19,8 @@ theme        = "PaperMod"                     # 启用主题
   author       = "Akly"       # 文章默认作者
   defaultTheme = "auto"       # 浏览器跟随系统深浅色；可改 light / dark
 
+  ShowReadingTime = true      # 能让访客了解一篇文章大致需要多少分钟阅读
+
   # 如果以后想添加首页简介，可启用下方示例：
 [params.homeInfoParams]
   Title   = "欢迎来到我的心灵花园 🌱"
