@@ -3,16 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-12T13:25:00+08:00</lastmod>
+    <lastmod>2025-06-13T13:25:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-12T13:25:00+08:00</lastmod>
+    <lastmod>2025-06-13T13:25:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/necessity_chance/</loc>
+    <lastmod>2025-06-13T13:25:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-06-12T13:25:00+08:00</lastmod>
+    <lastmod>2025-06-13T13:25:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E5%93%B2%E5%AD%A6/</loc>
-    <lastmod>2025-06-12T13:25:00+08:00</lastmod>
+    <lastmod>2025-06-13T13:25:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%80%9D%E8%80%83/</loc>
+    <lastmod>2025-06-13T13:25:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-13T13:25:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/</loc>
+    <lastmod>2025-06-13T13:25:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/</loc>
     <lastmod>2025-06-12T13:25:00+08:00</lastmod>
@@ -24,12 +36,6 @@
     <lastmod>2025-06-12T13:25:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E6%9C%AC%E8%B4%A8/</loc>
-    <lastmod>2025-06-12T13:25:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-12T13:25:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/</loc>
     <lastmod>2025-06-12T13:25:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E7%A7%91%E5%AD%A6/</loc>
@@ -54,9 +60,6 @@
     <lastmod>2025-06-10T13:25:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E4%BC%A6%E7%90%86/</loc>
-    <lastmod>2025-06-10T13:25:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E6%80%9D%E8%80%83/</loc>
     <lastmod>2025-06-10T13:25:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/selfish_gene/</loc>
